@@ -1,47 +1,53 @@
 ---
 sidebar_position: 1
+title: Introduction
 ---
 
-# Tutorial Intro
+# Welcome to the AI RAG Book
 
-Let's discover **Docusaurus in less than 5 minutes**.
+We are living in a time where Artificial Intelligence can read, write, explain, and even teach. But one of the most powerful abilities of modern AI is something called **Retrieval-Augmented Generation (RAG)**.
 
-## Getting Started
+This book teaches you how to build an AI system that can read a book and answer questions about it.
 
-Get started by **creating a new site**.
+By the end of this book you will understand how to:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+• Build a documentation website using Docusaurus  
+• Convert text into AI embeddings  
+• Store knowledge in a vector database  
+• Build a RAG chatbot using FastAPI + OpenAI  
+• Embed the chatbot directly inside a website  
 
-### What you'll need
+This book is not just theory — it is a **hands-on project**.
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+You are building a real AI product while reading this.
 
-## Generate a new site
+---
 
-Generate a new Docusaurus site using the **classic template**.
+## What is special about this book?
 
-The classic template will automatically be added to your project after you run the command:
+Most books teach theory.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+This book teaches you how to build:
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+👉 A book that contains its own AI assistant.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+Readers can highlight any text and ask questions about it.
 
-## Start your site
+That means the book becomes **interactive and intelligent**.
 
-Run the development server:
+---
 
-```bash
-cd my-website
-npm run start
-```
+## Who is this book for?
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+This book is perfect if you are:
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+• A student learning AI  
+• A beginner in web development  
+• A developer building portfolio projects  
+• Curious about ChatGPT-style systems  
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+No advanced AI knowledge is required.
+
+We build everything step by step.
+
+Let’s begin our journey!
